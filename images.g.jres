@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bullet"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAMAMAAAAAAAA3M0AAAAAwMzM3QwAAMDc3d3dDAAAXFXd3d3MAMBVVd3dvbsAXFVVVd1dVQBcVVVVu11VwFX/VVW13dvAVfFVVVXMzMBVVbVVXMy8wFVVFVPLzLwAXFW1U7vMvABcVbVTvAzMAMBVxbXADAAAAMzMDAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bunnyduck lright"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
